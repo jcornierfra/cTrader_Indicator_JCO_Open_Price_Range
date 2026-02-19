@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPR Levels Trading Range DST with RSI EMA SL TP Infos", "OPR Levels Trading Range DST with RSI EMA SL TP Infos\OPR Levels Trading Range DST with RSI EMA SL TP Infos.csproj", "{1adbf7d2-0dff-4e0d-b5de-2e4b12413c7c}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1adbf7d2-0dff-4e0d-b5de-2e4b12413c7c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1adbf7d2-0dff-4e0d-b5de-2e4b12413c7c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1adbf7d2-0dff-4e0d-b5de-2e4b12413c7c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1adbf7d2-0dff-4e0d-b5de-2e4b12413c7c}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
