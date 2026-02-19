@@ -3,6 +3,7 @@
 // =====================================================
 // Version: 5.1
 // Date: 2026-02-19
+// GitHub: https://github.com/jcornierfra/cTrader_Indicator_JCO_Open_Price_Range
 //
 // Changelog:
 // v5.1 (2026-02-19)
