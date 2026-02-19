@@ -7,6 +7,8 @@ Il combine la détection de range, un RSI filtré, une EMA, et un calcul automat
 > **Plateforme :** cTrader
 > **GitHub :** https://github.com/jcornierfra/cTrader_Indicator_JCO_Open_Price_Range
 
+![Aperçu de l'indicateur](screenshot.png)
+
 ---
 
 ## Fonctionnalités
